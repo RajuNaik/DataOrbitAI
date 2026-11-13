@@ -1,0 +1,10 @@
+# Transformers Explained - Part 2 (DataOrbitAI)
+# CPU only. Python 3.9+ recommended.
+torch>=2.1
+transformers>=4.40
+numpy>=1.24
+
+# Notebook only (not needed for the .py scripts):
+# jupyter
+# Optional heatmap cell in the notebook:
+# matplotlib
